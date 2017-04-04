@@ -8,6 +8,10 @@ print("hello food")
 
 And some other ways of Python
 
+```python
 import os
 
-print("hello food")
+print("hello world")
+```
+
+
