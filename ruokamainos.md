@@ -14,4 +14,4 @@ import os
 print("hello world")
 ```
 
-
+![ruokakassi](./img/ruoka.jpg)
